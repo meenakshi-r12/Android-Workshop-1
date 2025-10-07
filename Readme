@@ -15,8 +15,81 @@ Algorithm:
 8.In MainActivity.java, handle the button click → get values → calculate sum → display result.
 
 Program:
-/*
+
 Program to print the text create your own content providers to get contacts details.
-Developed by:
-Registeration Number :
-*/
+Developed by:Meenakshi.R
+Registeration Number :212224220062
+
+activity_main:
+
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9">
+
+    <!-- Heading -->
+    <TextView
+        android:id="@+id/heading"
+        android:text="Workshop 1"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!-- Display Title -->
+    <TextView
+        android:id="@+id/title"
+        android:text="Addition of Two Numbers"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:textColor="#555555"
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!-- First Number Input -->
+    <EditText
+        android:id="@+id/num1"
+        android:hint="Enter First Number"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp" />
+
+    <!-- Second Number Input -->
+    <EditText
+        android:id="@+id/num2"
+        android:hint="Enter Second Number"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp" />
+
+    <!-- Button -->
+    <Button
+        android:id="@+id/btnSum"
+        android:text="Calculate Sum"
+        android:textSize="16sp"
+        android:backgroundTint="#6200EE"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!-- Result Text Box -->
+    <TextView
+        android:id="@+id/result"
+        android:text="Result will appear here"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
