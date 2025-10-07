@@ -146,5 +146,6 @@ public class MainActivity extends AppCompatActivity {
 ## Output:
 
 <img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/0aa06722-740a-40b8-a479-c7edbb73e402" />
+
 ##  Result:
 Thus the Android application takes two numerical inputs from the user and displays their sum in a text box when the "Calculate Sum" button is executed successfully.
