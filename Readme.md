@@ -1,9 +1,9 @@
 ### Workshop-1
 
-Aim:
+## Aim:
      Getting two values and Display the result (sumation Value) in the text box using Android Studio
 
-Algorithm:
+## Algorithm:
 
 1.Open Android Studio → New Project → Empty Activity.
 2.Open activity_main.xml to design the layout.
@@ -14,13 +14,13 @@ Algorithm:
 7.Add a TextView to display the result.
 8.In MainActivity.java, handle the button click → get values → calculate sum → display result.
 
-Program:
+## Program:
 
 Program to print the text create your own content providers to get contacts details.
 Developed by:Meenakshi.R
 Registeration Number :212224220062
 
-activity_main:
+## activity_main:
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -94,7 +94,7 @@ activity_main:
 
 </LinearLayout>
 
-MainActivity.java:
+## MainActivity.java:
 
 package com.example.workshop1;
 
@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Output:
+## Output:
 
 <img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/0aa06722-740a-40b8-a479-c7edbb73e402" />
-## Result:
+##  Result:
