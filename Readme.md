@@ -15,11 +15,11 @@
 8.In MainActivity.java, handle the button click → get values → calculate sum → display result.
 
 ## Program:
-
+```
 Program to print the text create your own content providers to get contacts details.
 Developed by:Meenakshi.R
 Registeration Number :212224220062
-
+```
 ## activity_main:
 
 <?xml version="1.0" encoding="utf-8"?>
