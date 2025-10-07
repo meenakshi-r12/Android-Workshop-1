@@ -1,4 +1,16 @@
-# Workshop-1
+Workshop-1
+    
+     Getting two values and Display the result (sumation Value) in the text box using Android Studio
 
+Algorithm:
 
-   Getting two values and Display the result (sumation Value) in the text box using Android Studio
+1.Open Android Studio → New Project → Empty Activity.
+2.Open activity_main.xml to design the layout.
+3.Add a TextView for the heading (“Workshop 1”).
+4.Add another TextView for the subtitle/title (“Addition of Two Numbers”).
+5.Add two EditText boxes for number inputs.
+6.Add a Button to perform the summation.
+7.Add a TextView to display the result.
+8.In MainActivity.java, handle the button click → get values → calculate sum → display result.
+
+## Program:
