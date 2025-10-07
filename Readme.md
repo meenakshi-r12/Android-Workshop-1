@@ -21,7 +21,7 @@ Developed by:Meenakshi.R
 Registeration Number :212224220062
 ```
 ## activity_main:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
@@ -93,9 +93,9 @@ Registeration Number :212224220062
         android:layout_height="wrap_content" />
 
 </LinearLayout>
-
+```
 ## MainActivity.java:
-
+```
 package com.example.workshop1;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
+```
 ## Output:
 
 <img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/0aa06722-740a-40b8-a479-c7edbb73e402" />
