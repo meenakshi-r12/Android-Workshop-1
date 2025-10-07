@@ -4,7 +4,7 @@
      Getting two values and Display the result (sumation Value) in the text box using Android Studio
 
 ## Algorithm:
-
+```
 1.Open Android Studio → New Project → Empty Activity.
 2.Open activity_main.xml to design the layout.
 3.Add a TextView for the heading (“Workshop 1”).
@@ -13,7 +13,7 @@
 6.Add a Button to perform the summation.
 7.Add a TextView to display the result.
 8.In MainActivity.java, handle the button click → get values → calculate sum → display result.
-
+```
 ## Program:
 ```
 Program to print the text create your own content providers to get contacts details.
